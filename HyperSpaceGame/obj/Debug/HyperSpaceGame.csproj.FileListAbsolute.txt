@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\HyperSpace\HyperSpaceGame\bin\Debug\HyperSpaceGame.exe.config
+C:\Users\Technologist SP\Documents\GitHub\HyperSpace\HyperSpaceGame\bin\Debug\HyperSpaceGame.exe
+C:\Users\Technologist SP\Documents\GitHub\HyperSpace\HyperSpaceGame\bin\Debug\HyperSpaceGame.pdb
+C:\Users\Technologist SP\Documents\GitHub\HyperSpace\HyperSpaceGame\obj\Debug\HyperSpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\HyperSpace\HyperSpaceGame\obj\Debug\HyperSpaceGame.exe
+C:\Users\Technologist SP\Documents\GitHub\HyperSpace\HyperSpaceGame\obj\Debug\HyperSpaceGame.pdb
